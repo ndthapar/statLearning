@@ -27,7 +27,7 @@ SVM cross validation: tune()<br/>
 Sections within code are denoted by comments describing action being taken
 
 
-libraries used:
+libraries used:<br/>
 -Verification<br/>
 -corrplot<br/>
 -boot<br/>
