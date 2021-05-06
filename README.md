@@ -4,7 +4,7 @@ Bitcoin MLR and logistic regression + related techniques
 
 Purpose: to predict price value and price direction of BTC. Price value defined as the High price at t+1 predicted at time point t. Price direction defined as the difference between closing prices at t+1 and t.
 
-NOTE: Linear regression and Classification based techniques were split. At line 118 the workspace is reset to pursue clasification related problems. 
+NOTE: Linear regression and Classification based techniques were split. At line 161 the workspace is reset to pursue clasification related techniques
 
 Data: Cryptocurrency Historical Prices by SRK
 
